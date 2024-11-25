@@ -15,7 +15,7 @@ function Footer() {
          <p className='footer-p'>vbsschool.info@gmail.com</p>
       </div>
       <div className='footer-row'>
-         <FaLinkedin className='footer-icon'/>
+         <FaLinkedin className='footer-icon-linkdin'/>
           <Link to='https://www.linkedin.com/school/vishal-bharti-school/?originalSubdomain=in'>
           <p className='footer-link-p'>
            https://www.linkedin.com/school/vishal-bharti-school/?originalSubdomain=in
@@ -23,12 +23,12 @@ function Footer() {
           </Link>
       </div>
       <div className='footer-row'>
-         <FaPhone className='footer-icon'/>
+         <FaPhone className='footer-icon-phone'/>
          <p className='footer-p'>9354937851/54</p>
       </div>
       <div className='footer-row'>
-         <FaLocationDot className='footer-icon'/>
-         <p className='footer-p'>Vishal Bharti Senior Secondary School, Parwana Road, Pundrik Vihar, Pitam Pura, New Delhi, Delhi, India</p>
+         <FaLocationDot className='footer-icon-dot'/>
+         <p className='footer-p-dot'>Vishal Bharti Senior Secondary School, Parwana Road, Pundrik Vihar, Pitam Pura, New Delhi, Delhi, India</p>
       </div>
       <p className='copy-right-p'>Copyright © 2024 Vishal Bharti Senior Secondary School - All Rights Reserved.</p>
     </div>
