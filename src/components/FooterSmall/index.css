@@ -1,0 +1,26 @@
+.footer-bg{
+    width: 90%;
+    height: 100%;
+
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.icon-value-row{
+    display: flex;
+    align-items: center;
+}
+.icons-p{
+    font-size: 10px;
+    color: black;
+    margin-top: 15px;
+}
+.icon{
+    font-size: 14px;
+    margin-right: 3px;
+}
+.copy-right-para{
+    font-size: 10px;
+    color: rgb(47, 156, 219);
+}
